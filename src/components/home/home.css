@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    
+
+}
+.colors{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+    
+
+}
+.container h1{
+    font-size: 80px;
+    margin-bottom: 2vw;
+
+}
+.container button{
+    box-shadow: -5px 0 20px -5px #00d1ff, 5px 0 20px -5px #001aff;
+    opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+    color: #fff;
+    line-height: inherit;
+    cursor: pointer;
+    border: 1px solid #fff;
+    letter-spacing : 0.5px;
+    padding: 0.8vw 2vw;
+    font-weight: 500;
+    border-radius: 6px;
+    opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+
+}
+
